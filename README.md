@@ -1,4 +1,4 @@
-![Welcome! I'm Cibele Duarte](gif_banner.gif)
+![Welcome! I'm Cibele Duarte](gif_banner450.gif)
 
 ## About Me
 ### Hi there! My name is Cibele Duarte. I'm currently specializing in Data Science, with a strong passion for Python, Machine Learning, NLP, and SQL. With a background in video editing and animation, I bring a unique perspective to my journey into the world of data science and development.
