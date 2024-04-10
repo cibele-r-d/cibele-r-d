@@ -7,13 +7,11 @@ As I invest in connecting my skills in the dev world, I'm excited to explore new
 
 
 # What You'll Find Here 🔍
-### Projects:
-My repositories encompass a variety of projects I've worked on. From Bitcoin Price Calculator to News Sentiment Analisys, each repository represents my dedication to Data Science.
 
-#### 🔥 Here some of are my projects 🔥
-- https://github.com/cibele-r-d/Bitcon_Calculator
-- https://github.com/cibele-r-d/News-Analysis
-- https://github.com/cibele-r-d/semantic
+### 🔥 Some of my projects 🔥
+- *[Bitcoin Calculator](https://github.com/cibele-r-d/Bitcon_Calculator)*
+- *[News Analysis](https://github.com/cibele-r-d/News-Analysis)*
+- *[Semantic Analisys](https://github.com/cibele-r-d/semantic)*
 
 
 ### Learning Journey ✏️ 
